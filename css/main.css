@@ -11,9 +11,11 @@
    ========================================================================== */
 
 html {
-    color: #222;
+    color: #fff;
     font-size: 1em;
     line-height: 1.4;
+    background: #062942;
+    text-align: center;
 }
 
 /*
